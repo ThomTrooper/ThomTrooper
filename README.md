@@ -8,11 +8,12 @@ I'm ThomTrooper, a self-taught developer from France, currently studying compute
  - Java ☕
  - SQL 🗃️
  - BASH 📟
+ - C ⚙️
  - Pandoc
  - Markdown
  - LaTeX
 
 ### 🗣️ I speak :
- - French
+ - French (native)
  - English
  - Spanish 
