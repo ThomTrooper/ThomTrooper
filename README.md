@@ -6,7 +6,8 @@ I'm ThomTrooper, a self-taught developer from France, currently studying compute
  - Front-end (HTML/CSS/JS)
  - Python 🐍
  - Java ☕
- - SQL 🗃️
+ - SQL (MySQL & PostgreSQL) 🗃️
+ - PHP 🐘
  - BASH 📟
  - C ⚙️
  - Pandoc
