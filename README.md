@@ -11,8 +11,9 @@ I'm ThomTrooper, a self-taught developer from France, currently studying compute
 - ⚙️ C
 - 🐍 Python
 - Haskell
+- Lua
 
 ### 🗣️ I speak :
 - French (native)
-- English
-- Spanish
+- English (B2)
+- Spanish (B1) 
